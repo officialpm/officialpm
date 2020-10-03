@@ -1,23 +1,17 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm [Parth!](https://github.com/officialpm) 
 
-<br/>
 
-<a href="https://twitter.com/parthcodes">
-  <img align="left" alt="Parth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/parthdmaniar/">
-  <img align="left" alt="Parth's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/parthmaniar">
-  <img align="left" alt="Parth's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/parthroxx/">
-  <img align="left" alt="Parth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-parthdmaniar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthdmaniar/)](https://www.linkedin.com/in/parthdmaniar/)
+[![Twitter Badge](https://img.shields.io/badge/-@parthcodes-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/parthcodes)](https://twitter.com/parthcodes)
+[![Instagram Badge](https://img.shields.io/badge/-@parthroxx-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/parthroxx/)](https://instagram.com/parthroxx)
+[![Gmail Badge](https://img.shields.io/badge/-officialparthmaniar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:officialparthmaniar@gmail.com)](mailto:officialparthmaniar@gmail.com)
+![](https://komarev.com/ghpvc/?username=officialpm&style=flat&color=828bed)
 
-![](https://komarev.com/ghpvc/?username=officialpm)
+</div>
 
-<br />
+
 
 Hi, I'm Parth Maniar, a **`Full Stack Developer 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . Beside's programming, I enjoy eating food and I prefer Chai ☕ over Coffee
 
@@ -29,8 +23,18 @@ Hi, I'm Parth Maniar, a **`Full Stack Developer 🚀 `** and **`Researcher 🔭 
 - 🌱 I’m currently learning almost **`everything`**; 
 - 👯 I'm looking to collaborate on **`AI/ML`** and **`Blockchain`**;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Won 1st Prize in **`Smart India Hackathon 2020 🚀`** which is World's Biggest Innovation Model;
+- 🏆 Winner of **`Smart India Hackathon🚀 2020 (PSCode: MS450)`**  which is **`World's Biggest Open Innovation Model`**;
 - 📫 How to reach me: officialparthmaniar@gmail.com;
+
+
+### Stats
+
+
+<details>
+  <summary><b>Overall Github Stats</b></summary>
+  <a href="https://github.com/officialpm/"><img align="center" title="Parth Maniar's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialpm&count_private=true&show_icons=true" /></a>
+</details>
+
 
 **Languages and Tools:**  
 
@@ -53,4 +57,3 @@ Hi, I'm Parth Maniar, a **`Full Stack Developer 🚀 `** and **`Researcher 🔭 
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" ></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" ></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" ></code>
-
