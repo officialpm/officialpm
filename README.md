@@ -4,8 +4,8 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-parthdmaniar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthdmaniar/)](https://www.linkedin.com/in/parthdmaniar/)
-[![Twitter Badge](https://img.shields.io/badge/-@parthcodes-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/parthcodes)](https://twitter.com/parthcodes)
-[![Instagram Badge](https://img.shields.io/badge/-@parthroxx-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/parthroxx/)](https://instagram.com/parthroxx)
+[![Twitter Badge](https://img.shields.io/badge/-@theteacoder-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theteacoder)](https://twitter.com/theteacoder)
+[![Instagram Badge](https://img.shields.io/badge/-@theteacoder-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/theteacoder/)](https://instagram.com/theteacoder)
 [![Gmail Badge](https://img.shields.io/badge/-officialparthmaniar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:officialparthmaniar@gmail.com)](mailto:officialparthmaniar@gmail.com)
 ![](https://komarev.com/ghpvc/?username=officialpm&style=flat&color=828bed)
 
