@@ -38,22 +38,22 @@ Hi, I'm Parth Maniar, a **`Full Stack Developer 🚀 `** and **`Researcher 🔭 
 
 **Languages and Tools:**  
 
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" ></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" ></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" ></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" ></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" ></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" ></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" ></code>
