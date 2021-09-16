@@ -13,27 +13,35 @@
 
 
 
-Hi, I'm Parth Maniar, a **`Full Stack Developer 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . Beside's programming, I enjoy eating food and I prefer Chai ☕ over Coffee
+Hi, I'm Parth Maniar, a **`Researcher 🔭 `** and **`Full Stack Developer 🚀 `** from India 🇮🇳 currently in United States 🇺🇸 . Beside's programming, I enjoy eating food and I prefer Chai ☕ over Coffee
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Weather Based Short Term Load Forecasting](https://github.com/officialpm);
+- 👨🏻‍💻 Graduate student specialising in [`Data Science at SUNY University at Buffalo`](https://www.linkedin.com/in/parthdmaniar/); 
+- 👨🏽‍💻 I’m currently working on [`Weather Based Short Term Load Forecasting`](https://www.youtube.com/watch?v=6uPKQAxlIrI);
+- 🏗 Developing and maintaining my library, **[`scrape-amazon`](https://github.com/officialpm/scrape-amazon)**. (check it out, star if you like it ⭐)
 - 🌱 I’m currently learning almost **`everything`**; 
 - 👯 I'm looking to collaborate on **`AI/ML`** and **`Blockchain`**;
-- 💬 Ask me about anything, I am happy to help;
 - 🏆 Winner of **`Smart India Hackathon🚀 2020 (PSCode: MS450)`**  which is **`World's Biggest Open Innovation Model`**;
-- 📫 How to reach me: officialparthmaniar@gmail.com;
+- 📫 Available at **[`officialparthmaniar@gmail.com`](mailto:officialparthmaniar@gmail.com`)** ,**[`parth@buffalo.edu`](mailto:parth@buffalo.edu`)**;
+- 💬 Ask me about anything, I am happy to help;
 
-
-### Stats
-
-
-<details>
+<!-- <details>
   <summary><b>Overall Github Stats</b></summary>
   <a href="https://github.com/officialpm/"><img align="center" title="Parth Maniar's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialpm&count_private=true&show_icons=true" /></a>
-</details>
+</details> -->
+
+  <h2 align="center"><b>Github Stats</b></h2>
+</br>
+<p align="center">
+<a href="https://github.com/officialpm">
+<img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=officialpm&theme=dark" alt="officalpm"/>
+</a>
+</p>
+</br>
+
 
 
 **Languages and Tools:**  
