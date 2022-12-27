@@ -36,6 +36,11 @@ Hi, I'm Parth Maniar, a **`Researcher 🔭 `** and **`Full Stack Developer 🚀 
 
 <h2 align="center"><b>Blog Posts</b></h2>
 <!-- BLOG-POST-LIST:START -->
+- [Uncovering the Unusual: Using Facebook Prophet for Anomaly Detection in Time Series Data](https://parthmaniar.tech/blog/Uncovering-The-Unusual-Using-Facebook-Prophet)
+- [Out with the Outliers: How to Remove Outliers in Python](https://parthmaniar.tech/blog/Out-with-the-Outliers)
+- [Debugging a model or any data science project](https://parthmaniar.tech/blog/Debugging-A-Model-Or-Any-Data-Science-Project)
+- [The Ins and Outs of Regression: Types, Training, and Evaluation](https://parthmaniar.tech/blog/The-Ins-and-Outs-of-Regression-Types-Training-and-Evaluation)
+- [Missing Data Percentage and Count in pandas](https://parthmaniar.tech/blog/Find-Missing-Data-Percentage)
 <!-- BLOG-POST-LIST:END -->
 
   <h2 align="center"><b>Github Stats</b></h2>
