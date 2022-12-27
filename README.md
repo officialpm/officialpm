@@ -33,6 +33,11 @@ Hi, I'm Parth Maniar, a **`Researcher 🔭 `** and **`Full Stack Developer 🚀 
   <a href="https://github.com/officialpm/"><img align="center" title="Parth Maniar's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialpm&count_private=true&show_icons=true" /></a>
 </details> -->
 
+
+<h2 align="center"><b>Blog Posts</b></h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
   <h2 align="center"><b>Github Stats</b></h2>
 </br>
 <p align="center">
