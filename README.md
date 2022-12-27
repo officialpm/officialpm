@@ -34,7 +34,8 @@ Hi, I'm Parth Maniar, a **`Researcher 🔭 `** and **`Full Stack Developer 🚀 
 </details> -->
 
 
-<h2 align="center"><b>Blog Posts</b></h2>
+<h2 align="center"><b>📕  Latest Blog Posts</b></h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [Uncovering the Unusual: Using Facebook Prophet for Anomaly Detection in Time Series Data](https://parthmaniar.tech/blog/Uncovering-The-Unusual-Using-Facebook-Prophet)
 - [Out with the Outliers: How to Remove Outliers in Python](https://parthmaniar.tech/blog/Out-with-the-Outliers)
