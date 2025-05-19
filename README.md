@@ -37,11 +37,11 @@ Hi, I'm Parth Maniar, a **`Researcher 🔭 `** and **`Full Stack Developer 🚀 
 <h2 align="center"><b>📕  Latest Blog Posts</b></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Retrieval Augmented Generation: Building LLMs That Know Their Limits](https://parthmaniar.tech/blog/Retrieval-Augmented-Generation-Building-LLMs-That-Know-Their-Limits)
 - [AI Agents vs Agentic AI: The Critical Distinction Explained](https://parthmaniar.tech/blog/AI-Agents-vs-Agentic-AI)
 - [Understanding PCA and t-SNE: A Comparative Analysis for Dimensionality Reduction](https://parthmaniar.tech/blog/Understanding-PCA-and-t-SNE-A-Comparative-Analysis-for-Dimensionality-Reduction)
 - [Cracking the Code: Mastering Hyperparameter Tuning for Optimal Machine Learning Performance](https://parthmaniar.tech/blog/Cracking-the-Code-Mastering-Hyperparameter-Tuning-for-Optimal-Machine-Learning-Performance)
 - [Unlocking the Secrets of Machine Learning: Techniques for Interpreting Complex Models](https://parthmaniar.tech/blog/Unlocking-the-Secrets-of-Machine-Learning-Techniques-for-Interpreting-Complex-Models)
-- [Uncovering the Unusual: Using Facebook Prophet for Anomaly Detection in Time Series Data](https://parthmaniar.tech/blog/Uncovering-The-Unusual-Using-Facebook-Prophet)
 <!-- BLOG-POST-LIST:END -->
 
   <h2 align="center"><b>Github Stats</b></h2>
