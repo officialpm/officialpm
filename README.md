@@ -38,10 +38,10 @@ Hi, I'm Parth Maniar, a **`Researcher 🔭 `** and **`Full Stack Developer 🚀 
 
 <!-- BLOG-POST-LIST:START -->
 - [Idempotency Is Your System’s Seatbelt: Building Reliable APIs &amp; Job Queues](https://parthmaniar.tech/blog/Idempotency-Is-Your-Systems-Seatbelt)
+- [The LLM Shipping Checklist: From Demo to Production &lpar;Without Getting Burned&rpar;](https://parthmaniar.tech/blog/The-LLM-Shipping-Checklist-From-Demo-to-Production)
 - [Retrieval Augmented Generation: Building LLMs That Know Their Limits](https://parthmaniar.tech/blog/Retrieval-Augmented-Generation-Building-LLMs-That-Know-Their-Limits)
 - [AI Agents vs Agentic AI: The Critical Distinction Explained](https://parthmaniar.tech/blog/AI-Agents-vs-Agentic-AI)
 - [Understanding PCA and t-SNE: A Comparative Analysis for Dimensionality Reduction](https://parthmaniar.tech/blog/Understanding-PCA-and-t-SNE-A-Comparative-Analysis-for-Dimensionality-Reduction)
-- [Cracking the Code: Mastering Hyperparameter Tuning for Optimal Machine Learning Performance](https://parthmaniar.tech/blog/Cracking-the-Code-Mastering-Hyperparameter-Tuning-for-Optimal-Machine-Learning-Performance)
 <!-- BLOG-POST-LIST:END -->
 
   <h2 align="center"><b>Github Stats</b></h2>
