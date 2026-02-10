@@ -57,11 +57,11 @@ I like shipping reliable systems, automation, and pragmatic ML/LLM workflows. Al
 <h2 align="center"><b>📕  Latest Blog Posts</b></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Contracts Before Dashboards: Stop Shipping Silent Data Bugs](https://parthmaniar.tech/blog/Data-Contracts-Before-Dashboards/)
+- [Feature Stores Are Optional. Feature Consistency Is Not.](https://parthmaniar.tech/blog/Feature-Stores-Are-Optional-Consistency-Is-Not/)
+- [Why Your RAG System Needs a Failure Budget](https://parthmaniar.tech/blog/Why-Your-RAG-Needs-a-Failure-Budget/)
 - [Idempotency Is Your System&#39;s Seatbelt: Building Reliable APIs &amp; Job Queues](https://parthmaniar.tech/blog/Idempotency-Is-Your-Systems-Seatbelt/)
 - [The LLM Shipping Checklist: From Demo to Production &lpar;Without Getting Burned&rpar;](https://parthmaniar.tech/blog/The-LLM-Shipping-Checklist-From-Demo-to-Production/)
-- [Retrieval Augmented Generation: Building LLMs That Know Their Limits](https://parthmaniar.tech/blog/Retrieval-Augmented-Generation-Building-LLMs-That-Know-Their-Limits/)
-- [AI Agents vs Agentic AI: The Critical Distinction Explained](https://parthmaniar.tech/blog/AI-Agents-vs-Agentic-AI/)
-- [Understanding PCA and t-SNE: A Comparative Analysis for Dimensionality Reduction](https://parthmaniar.tech/blog/Understanding-PCA-and-t-SNE-A-Comparative-Analysis-for-Dimensionality-Reduction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
